@@ -1,7 +1,9 @@
 # Olist-E-Commerce-Analysis
 End-to-end Business Intelligence project using SQL for data cleaning and Power BI for interactive visualization of Brazilian e-commerce data.
 This project involves an end-to-end analysis of the Olist E-Commerce dataset, covering over 100,000 orders from 2016 to 2018. The goal was to transform raw, messy relational data into actionable business insights.
+
 Data Source: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce 
+
 Tech Stack
 Database Management: MySQL Workbench (Data Cleaning, Normalization, & KPI Generation).
 
